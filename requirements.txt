@@ -1,0 +1,11 @@
+ipykernel
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+plotly
+catboost
+xgboost
+dill
+-e . # used to setup local package / automatically triggers setup.py file
